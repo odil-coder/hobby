@@ -24,7 +24,7 @@ function Umidjon() {
           </div>
           <div class="face face2">
             <div class="content">
-              <p>
+              <p className="pp">
                 {" "}
                 Umidjon, bugun sen uchun <br />
                 maxsus kun,Tug'ilganing bilan <br />
