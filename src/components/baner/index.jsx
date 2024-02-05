@@ -9,7 +9,7 @@ function Umidjon() {
 
         <div className="bmw">
           <img src="./img/bmw2.png" alt="" />
-          <h1>Tug'ilgan kuningiz bilan tog'ajon</h1>
+          <h1>Tug'ilgan kuningiz <br /> bilan tog'ajon</h1>
           <img src="./img/bmw1.png" alt="" />
         </div>
         <img src="./img/m.jpg" alt="" />
@@ -70,7 +70,7 @@ function Umidjon() {
             <div class="content">
               <p>
                 {" "}
-                Umidjon, bugun barcha tilaklar <br />
+                Umidjon, bugun barcha tilaklar
                 senga qaratiladi,Tug'ilgan kuningda <br />
                  eng ezgu orzular ro'yobga chiqadi. <br />
                 Do'stlaring va yaqinlaring bilan <br />
