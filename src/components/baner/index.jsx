@@ -70,7 +70,7 @@ function Umidjon() {
             <div class="content">
               <p>
                 {" "}
-                Umidjon, bugun barcha tilaklar
+                Umidjon, bugun barcha tilaklar <br />
                 senga qaratiladi,Tug'ilgan kuningda <br />
                  eng ezgu orzular ro'yobga chiqadi. <br />
                 Do'stlaring va yaqinlaring bilan <br />
