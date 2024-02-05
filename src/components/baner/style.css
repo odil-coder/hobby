@@ -169,7 +169,7 @@ a {
 
 
 
-@media (max-width: 412px) {
+@media (max-width: 500px) {
   img {
     width: 250px;
   }
